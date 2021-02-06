@@ -1,16 +1,16 @@
-# custom_django_user_account
-a django app customized for giving user login and register facility by email or mobile number or both
+# django-custom-auth
+A django app customized for giving user login and register facility by email or mobile number or both. Enjoy !!
 
 ## Installation
 
 Clone the repository
 ```bash
-
+$git clone https://github.com/tawhidii/django-custom-auth.git
 ```
 
 cd into the directory
 ```bash
-cd custom_django_account_user
+cd django-custom-auth
 ```
 
 Create and activate virtual environment
